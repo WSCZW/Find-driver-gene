@@ -1,0 +1,46 @@
+The Cancer Genome Atlas
+The Cancer Genome Atlas (TCGA), a collaboration between the National Cancer Institute (NCI) and National Human Genome Research Institute (NHGRI), has generated comprehensive, multi-dimensional maps of the key genomic changes in 33 types of cancer. The TCGA dataset, describing tumor tissue and matched normal tissues from more than 11,000 patients, is publically available and has been used widely by the research community. The data have contributed to more than a thousand studies of cancer by independent researchers and to the TCGA research network publications.
+
+Data on this hub is derived from files download from TCGA Data Coordinating Center (DCC) in Jan 2016, and Broad Firehose (analyses 2016-01-28).
+
+TCGA Hub
+Hub address: https://tcga.xenahubs.net
+38 Cohorts, 715 Datasets
+TCGA Acute Myeloid Leukemia (LAML) (19 datasets)
+TCGA Adrenocortical Cancer (ACC) (17 datasets)
+TCGA Bile Duct Cancer (CHOL) (17 datasets)
+TCGA Bladder Cancer (BLCA) (21 datasets)
+TCGA Breast Cancer (BRCA) (24 datasets)
+TCGA Cervical Cancer (CESC) (18 datasets)
+TCGA Colon and Rectal Cancer (COADREAD) (15 datasets)
+TCGA Colon Cancer (COAD) (25 datasets)
+TCGA Endometrioid Cancer (UCEC) (26 datasets)
+TCGA Esophageal Cancer (ESCA) (19 datasets)
+TCGA Formalin Fixed Paraffin-Embedded Pilot Phase II (FPPP) (2 datasets)
+TCGA Glioblastoma (GBM) (25 datasets)
+TCGA Head and Neck Cancer (HNSC) (21 datasets)
+TCGA Kidney Chromophobe (KICH) (18 datasets)
+TCGA Kidney Clear Cell Carcinoma (KIRC) (23 datasets)
+TCGA Kidney Papillary Cell Carcinoma (KIRP) (21 datasets)
+TCGA Large B-cell Lymphoma (DLBC) (17 datasets)
+TCGA Liver Cancer (LIHC) (19 datasets)
+TCGA Lower Grade Glioma (LGG) (19 datasets)
+TCGA lower grade glioma and glioblastoma (GBMLGG) (12 datasets)
+TCGA Lung Adenocarcinoma (LUAD) (23 datasets)
+TCGA Lung Cancer (LUNG) (15 datasets)
+TCGA Lung Squamous Cell Carcinoma (LUSC) (24 datasets)
+TCGA Melanoma (SKCM) (17 datasets)
+TCGA Mesothelioma (MESO) (17 datasets)
+TCGA Ocular melanomas (UVM) (17 datasets)
+TCGA Ovarian Cancer (OV) (27 datasets)
+TCGA Pan-Cancer (PANCAN) (9 datasets)
+TCGA Pancreatic Cancer (PAAD) (17 datasets)
+TCGA Pheochromocytoma & Paraganglioma (PCPG) (17 datasets)
+TCGA Prostate Cancer (PRAD) (18 datasets)
+TCGA Rectal Cancer (READ) (25 datasets)
+TCGA Sarcoma (SARC) (17 datasets)
+TCGA Stomach Cancer (STAD) (24 datasets)
+TCGA Testicular Cancer (TGCT) (17 datasets)
+TCGA Thymoma (THYM) (17 datasets)
+TCGA Thyroid Cancer (THCA) (19 datasets)
+TCGA Uterine Carcinosarcoma (UCS) (17 datasets)
